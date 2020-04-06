@@ -21,7 +21,6 @@ A chat application that sends and receives messages between A Client and B Clien
 
 # Software Used for this application
 Below software are being used to run this application. 
-* [jQuery ](https://jquery.com)
 * [SockJS 1.0.2](https://github.com/sockjs/sockjs-client)
 * [STOMP 2.3.3](http://jmesnil.net/stomp-websocket/doc)
 * [Spring-boot 1.5.3](https://spring.io/docs)
@@ -43,8 +42,3 @@ mvn clean package
 java -jar chatting-kafka-0.1.0.jar
 ```
 * This will start the server on http://localhost:8080
-
-
-# Demo Site
-* http://54.68.110.18:8080 
-* User: steve, bread

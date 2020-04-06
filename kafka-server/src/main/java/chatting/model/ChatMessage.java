@@ -1,7 +1,7 @@
 package chatting.model;
 
 
-public class Chat {
+public class ChatMessage {
     private String author;
     public String getAuthor() {
         return  author;
@@ -22,9 +22,9 @@ public class Chat {
     public String getType() {
         return type;
     }
-    public Chat(){}
+    public ChatMessage(){}
 
-    public Chat(String text, String author) {
+    public ChatMessage(String text, String author) {
         this.author = author;
         this.data = new ChatData(text);
 
