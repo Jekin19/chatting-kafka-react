@@ -4,7 +4,7 @@
 
 A chat application that sends and receives messages between A Client and B Client.
 
-![Chatting](http://postfiles16.naver.net/MjAxNzA2MjhfMTc4/MDAxNDk4NjMwODY5MDY2.eSSK8vNm9ypMxMnllQAjkt3zmC77I2uG2rlVlSZWc_og.z8iwC9CaX36nPP7CrCrH430pAwHGRtPirSBnM-RxykYg.JPEG.jjiinn45/app.JPG?type=w3 "Chatting")
+https://pasteboard.co/J2Bb1V4.png
 
 # Development scope
 
@@ -13,38 +13,31 @@ A chat application that sends and receives messages between A Client and B Clien
 - The client uses a web browser. It is a kind of web-based chatting program.
 - It has a message queue. A When a user sends a message, it pushes it to a message queue and then pulls this message and sends it to the another user.
 
-# Requirements
+# Building
 
-- Java 1.8 or later
-- Maven 3.0
-- [Kafka 0.10.2](https://kafka.apache.org/0102/documentation.html)
-- [Zookeeper 3.4.10](http://zookeeper.apache.org/doc/r3.4.10)
+Step 1: Download the code https://www.apache.org/dyn/closer.cgi?path=/kafka/2.4.1/kafka_2.12-2.4.1.tgz
+Download the 2.4.1 release and un-tar it.
 
-# Software Used for this application
+> tar -xzf kafka_2.12-2.4.1.tgz
+> cd kafka_2.12-2.4.1
 
-Below software are being used to run this application.
+Step 2: Start the server
+Kafka uses ZooKeeper so you need to first start a ZooKeeper server if you don't already have one. You can use the convenience script packaged with kafka to get a quick-and-dirty single-node ZooKeeper instance.
 
-- [SockJS 1.0.2](https://github.com/sockjs/sockjs-client)
-- [STOMP 2.3.3](http://jmesnil.net/stomp-websocket/doc)
-- [Spring-boot 1.5.3](https://spring.io/docs)
-- [Apache Kafka 0.10.2](https://kafka.apache.org/0102/documentation.html)
-- [Zookeeper 3.4.10](http://zookeeper.apache.org/doc/r3.4.10)
-- [Maven 3.0](http://https://maven.apache.org)
+> bin/zookeeper-server-start.sh config/zookeeper.properties
+> [2013-04-22 15:01:37,495] INFO Reading configuration from: config/zookeeper.properties (org.apache.zookeeper.server.quorum.QuorumPeerConfig)
 
-# Download
+> bin/kafka-server-start.sh config/server.properties
+> [2013-04-22 15:01:47,028] INFO Verifying properties (kafka.utils.VerifiableProperties)
+> [2013-04-22 15:01:47,051] INFO Property socket.send.buffer.bytes is overridden to 1048576 (kafka.utils.VerifiableProperties)
+> ...
 
-Download and unzip the source repository for this guide, or clone it using Git: git clone https://github.com/Seunghoon-Oh/chatting-kafka.git
-
-# Building & Deploying
-
-```bash
-mvn clean package
-```
-
-# Run
-
-```bash
-java -jar chatting-kafka-0.1.0.jar
-```
+Step3: Start the Kafka Springboot application
+Go to kafka-server folder and follow the Readme instructions
 
 - This will start the server on http://localhost:8080
+
+Step4: Start the React client application
+Go to react-client folder and follow the Readme instructions
+
+- This will start the application on http://localhost:3000
