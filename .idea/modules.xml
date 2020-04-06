@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/kafka-server/chatting-kafka.iml" filepath="$PROJECT_DIR$/kafka-server/chatting-kafka.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/chatting-kafka-react.iml" filepath="$PROJECT_DIR$/.idea/chatting-kafka-react.iml" />
     </modules>
   </component>

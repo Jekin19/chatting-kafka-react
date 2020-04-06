@@ -3,5 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/kafka-client-react/my-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kafka-client-react/react-client" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/react-client" vcs="Git" />
   </component>
 </project>
