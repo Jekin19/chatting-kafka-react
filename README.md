@@ -15,6 +15,7 @@ A chat application that sends and receives messages between A Client and B Clien
 
 # Building
 
+https://kafka.apache.org/quickstart
 Step 1: Download the code https://www.apache.org/dyn/closer.cgi?path=/kafka/2.4.1/kafka_2.12-2.4.1.tgz
 Download the 2.4.1 release and un-tar it.
 
@@ -25,12 +26,8 @@ Step 2: Start the server
 Kafka uses ZooKeeper so you need to first start a ZooKeeper server if you don't already have one. You can use the convenience script packaged with kafka to get a quick-and-dirty single-node ZooKeeper instance.
 
 > bin/zookeeper-server-start.sh config/zookeeper.properties
-> [2013-04-22 15:01:37,495] INFO Reading configuration from: config/zookeeper.properties (org.apache.zookeeper.server.quorum.QuorumPeerConfig)
 
 > bin/kafka-server-start.sh config/server.properties
-> [2013-04-22 15:01:47,028] INFO Verifying properties (kafka.utils.VerifiableProperties)
-> [2013-04-22 15:01:47,051] INFO Property socket.send.buffer.bytes is overridden to 1048576 (kafka.utils.VerifiableProperties)
-> ...
 
 Step3: Start the Kafka Springboot application
 Go to kafka-server folder and follow the Readme instructions
