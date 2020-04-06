@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0d5250bc-7213-4d8c-a264-41612b4a9883" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZzvFZ6IfkzvIH3KBZ5jcQSivay" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chatting.Application" />
+      <module name="chatting-kafka-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chatting.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="chatting-kafka-server" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="chatting-kafka-server" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d5250bc-7213-4d8c-a264-41612b4a9883" name="Default Changelist" comment="" />
+      <created>1585854633594</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585854633594</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2378" y="324" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1585944093995">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2378" y="324" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1585944093995" />
+    <state x="2453" y="268" key="#com.intellij.ide.util.MemberChooser" timestamp="1585856698609">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2453" y="268" key="#com.intellij.ide.util.MemberChooser/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1585856698609" />
+    <state width="482" height="466" key="DebuggerActiveHint" timestamp="1585951704638">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state width="482" height="466" key="DebuggerActiveHint/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1585951704638" />
+    <state width="1878" height="357" key="GridCell.Tab.0.bottom" timestamp="1586180846500">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="357" key="GridCell.Tab.0.bottom/0.23.1920.1057/1920.23.1680.1027@0.23.1920.1057" timestamp="1586180846500" />
+    <state width="1638" height="280" key="GridCell.Tab.0.bottom/1680.23.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1585926693175" />
+    <state width="1878" height="357" key="GridCell.Tab.0.bottom/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1585952938216" />
+    <state width="1878" height="357" key="GridCell.Tab.0.center" timestamp="1586180846498">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="357" key="GridCell.Tab.0.center/0.23.1920.1057/1920.23.1680.1027@0.23.1920.1057" timestamp="1586180846498" />
+    <state width="1638" height="280" key="GridCell.Tab.0.center/1680.23.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1585926693174" />
+    <state width="1878" height="357" key="GridCell.Tab.0.center/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1585952938215" />
+    <state width="1878" height="357" key="GridCell.Tab.0.left" timestamp="1586180846498">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="357" key="GridCell.Tab.0.left/0.23.1920.1057/1920.23.1680.1027@0.23.1920.1057" timestamp="1586180846498" />
+    <state width="1638" height="280" key="GridCell.Tab.0.left/1680.23.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1585926693173" />
+    <state width="1878" height="357" key="GridCell.Tab.0.left/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1585952938214" />
+    <state width="1878" height="357" key="GridCell.Tab.0.right" timestamp="1586180846499">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="357" key="GridCell.Tab.0.right/0.23.1920.1057/1920.23.1680.1027@0.23.1920.1057" timestamp="1586180846499" />
+    <state width="1638" height="280" key="GridCell.Tab.0.right/1680.23.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1585926693174" />
+    <state width="1878" height="357" key="GridCell.Tab.0.right/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1585952938215" />
+    <state width="1878" height="357" key="GridCell.Tab.1.bottom" timestamp="1586180846361">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="357" key="GridCell.Tab.1.bottom/0.23.1920.1057/1920.23.1680.1027@0.23.1920.1057" timestamp="1586180846361" />
+    <state width="1878" height="357" key="GridCell.Tab.1.bottom/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1585952938147" />
+    <state width="1878" height="357" key="GridCell.Tab.1.center" timestamp="1586180846361">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="357" key="GridCell.Tab.1.center/0.23.1920.1057/1920.23.1680.1027@0.23.1920.1057" timestamp="1586180846361" />
+    <state width="1878" height="357" key="GridCell.Tab.1.center/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1585952938146" />
+    <state width="1878" height="357" key="GridCell.Tab.1.left" timestamp="1586180846360">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="357" key="GridCell.Tab.1.left/0.23.1920.1057/1920.23.1680.1027@0.23.1920.1057" timestamp="1586180846360" />
+    <state width="1878" height="357" key="GridCell.Tab.1.left/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1585952938145" />
+    <state width="1878" height="357" key="GridCell.Tab.1.right" timestamp="1586180846361">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="357" key="GridCell.Tab.1.right/0.23.1920.1057/1920.23.1680.1027@0.23.1920.1057" timestamp="1586180846361" />
+    <state width="1878" height="357" key="GridCell.Tab.1.right/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1585952938146" />
+    <state x="2676" y="242" key="Maven.ArtifactSearchDialog" timestamp="1585856613985">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2676" y="242" key="Maven.ArtifactSearchDialog/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1585856613985" />
+    <state x="517" y="399" key="com.intellij.ide.util.TipDialog" timestamp="1586179348212">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="517" y="399" key="com.intellij.ide.util.TipDialog/0.23.1920.1057/1920.23.1680.1027@0.23.1920.1057" timestamp="1586179348212" />
+    <state x="517" y="369" key="com.intellij.ide.util.TipDialog/1680.23.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1585926383491" />
+    <state x="2209" y="294" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1585952322888">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2209" y="294" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1585952322888" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/chatting/ChattingController.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/chatting/kafka/producer/Sender.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/chatting/kafka/producer/ChatMessageSender.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-messaging/4.3.8.RELEASE/spring-messaging-4.3.8.RELEASE.jar!/org/springframework/messaging/handler/invocation/InvocableHandlerMethod.class</url>
+          <line>120</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/chatting/kafka/consumer/Receiver.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/chatting/ChattingController.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="((SerializationException)((InvocationTargetException)ex).target).detailMessage" custom="java.lang.reflect.InvocationTargetException,org.apache.kafka.common.errors.SerializationException" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
