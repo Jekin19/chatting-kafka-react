@@ -4,7 +4,7 @@
 
 A chat application that sends and receives messages between A Client and B Client.
 
-https://pasteboard.co/J2Bb1V4.png
+![Chatting Sample](https://user-images.githubusercontent.com/12117401/78600991-f81b1600-7821-11ea-9a34-2749cff5eaae.png)
 
 # Development scope
 
