@@ -27,6 +27,5 @@ public class ChatMessage {
     public ChatMessage(String text, String author) {
         this.author = author;
         this.data = new ChatData(text);
-
     }
 }

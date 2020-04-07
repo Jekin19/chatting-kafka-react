@@ -3,6 +3,8 @@ spring:
     consumer:
       auto-offset-reset: earliest
       group-id: boot
+    bootstrap-servers: localhost:9092
 
 topic:
-  message: chatting_Message
+  message: chattingMessage
+  file-message: fileMessage

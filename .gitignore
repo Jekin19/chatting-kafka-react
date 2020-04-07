@@ -1,2 +1,5 @@
 # Default ignored files
-../react-client/src/node_modules
+react-client/node_modules
+react-client/.idea
+kafka-server/target
+.idea
